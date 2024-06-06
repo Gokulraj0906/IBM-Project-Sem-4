@@ -8,6 +8,6 @@ step 2 :
   pip install yfinance dash dash-bootstrap-components plotly
 
 step 3 :
-  OPEN THE Terminal in current working directory and enter the command as 
+  Open The Terminal in current working directory and enter the command as 
   
   py app.py or python3 app.py
