@@ -103,4 +103,4 @@ def update_graph(selected_stock, start_date, end_date, n_intervals):
     return fig, latest_price_display, high_price_display, low_price_display
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=False)
