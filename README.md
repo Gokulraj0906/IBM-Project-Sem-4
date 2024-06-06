@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is a real-time stock market price dashboard, providing live updates and a user-friendly interface for tracking stock prices. 
+This project is a real-time stock market price dashboard, providing live updates and a user-friendly interface for tracking stock prices mainly created for 4 th Sem IBM Project By Gokulraj.S B.tech CSE(DS(Ai)) 
 
 ## Installation and Setup
 
